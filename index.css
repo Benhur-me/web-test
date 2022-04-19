@@ -273,3 +273,91 @@ button:hover{
 .sound{
     cursor: pointer;
 }
+.pricing{
+    border: 1px solid grey;
+    height: 150vh;
+    margin-top: 60px;
+    margin-left: 90px;
+    color: red;
+    background-color: #616161;
+}
+.our_pricing{
+    border: px solid grey;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    color: #fff;
+    text-align: center;
+}
+.basic{
+    border: 1px solid grey;
+    width: 100%;
+    text-align: center;
+}
+.Pro{
+    border: 1px solid grey;
+    width: 100%;
+    text-align: center;
+}
+.lists_of_basics{
+    border: 1px solid grey;
+    display: inline-block;
+    width: 30%;
+    background-color: #fff;
+    margin-left: 50px;
+}
+.lists_of_pro{
+    display: inline-block;
+    width: 30%;
+    background-color: #fff;
+}
+.premium{
+    border: 1px solid grey;
+    width: 100%;
+    text-align: center;
+}
+.lists_of_premium{
+    border: 1px solid grey;
+    display: inline-block;
+    width: 30%;
+    background-color: #fff;
+}
+.first_line_basic{
+    border: 1px solid grey;
+    width: 100%;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.basic_font{
+    padding: 15px;
+    width: 100%;
+    text-align: center;
+}
+.sign_up{
+    padding: 20px;
+    background-color: #000;
+    color: #fff;
+    margin: 10px;
+}
+.basic_sign{
+    border: 1px solid grey;
+    width: 100%;
+    text-align: center;
+    background-color: #f1f1f1;
+}
+.first_line_pro{
+    border: 1px solid grey;
+    width: 100%;
+    text-align: center;
+    background-color: red;
+    color: #fff;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.time{
+    color: #616161;
+}
