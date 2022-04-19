@@ -9,7 +9,11 @@ li{
     margin: 10PX;
     margin-right: 20px;
     cursor: pointer;
+    padding: 15px;
     /* border: 1px solid red; */
+}
+li:hover{
+    background-color: #BEBEBE;
 }
 ul{
     margin-right: 80px;
@@ -29,7 +33,7 @@ ul{
     margin-bottom: 0px;
 }
 .content{
-    border: 1px solid black;
+    border: 0.5px solid black;
     height: 95vh;
     width: 100%;
     background-image: url("backcover.jpeg");
@@ -46,7 +50,7 @@ ul{
     margin-left: 48px;
     color: #fff;
 }
-button{
+.learn{
     margin-left: 48px;
     padding: 12px 24px;
     background-color: #dcdcdc;
@@ -173,4 +177,78 @@ button:hover{
     border: px solid black;
     height: 350px;
     padding-top: 60px;
+}
+.the_team{
+    border: px solid black;
+    margin: 0  auto;
+    text-align: center;
+    margin-top: 60px;
+}
+.team_paragraph{
+    font-size: 25px;
+}
+.user_section{
+    border: px solid black;
+    width: 20%;
+    height: 62vh;
+    display: inline-block;
+    margin-left: 70px;
+}
+.user{
+    width: 100%;
+    height: 150px;
+    filter: grayscale(8);
+    
+}
+.user_section1{
+    border: px solid black;
+    width: 20%;
+    height: 62vh;
+    display: inline-block;
+    margin-left: 20px;
+}
+.user_section2{
+    border: px solid black;
+    width: 20%;
+    height: 62vh;
+    display: inline-block;
+    margin-left: 20px;
+}
+.user_section3{
+    border: px solid black;
+    width: 20%;
+    height: 62vh;
+    display: inline-block;
+    margin-left: 20px;
+}
+.inbox_contact{
+    width: 200px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.inbox_contact:hover{
+    background-color: #BEBEBE;
+}
+.title{
+    font-size: 24px;
+}
+.sub_title{
+    color: #BEBEBE;
+}
+.italic{
+    border: px solid black;
+    width: 10%;
+    text-align: center;
+    display: inline-block;
+    color: #fff;
+    margin-left: 160px;
+}
+.italic_container{
+    border: px solid black;
+    padding: 20px;
+    margin-top: 100px;
+    background-color: #616161;
+}
+.sub_number{
+    font-size: 34px;
 }
