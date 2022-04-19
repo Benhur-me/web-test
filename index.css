@@ -9,12 +9,19 @@ li{
     margin: 10PX;
     margin-right: 20px;
     cursor: pointer;
+    /* border: 1px solid red; */
 }
 ul{
     margin-right: 80px;
-    border: px solid black;
     margin: 0 auto;
     padding: 15px;
+    position: fixed;
+    color: #000;
+    /* border: 1px solid red; */
+    width: 99.5%;
+    float: right;
+    background-color: #fff;
+    box-shadow: 5px;
     
 }
 .logo{
@@ -45,7 +52,7 @@ button{
     background-color: #dcdcdc;
     color: #000;
     margin-top: 40px;
-    font-size: medium;
+    font-size: 18px;
     cursor: pointer;
     outline: none;
     margin-bottom: 120px;
@@ -58,5 +65,74 @@ button:hover{
 }
 .icons{
     cursor: pointer;
-    border: 1px;
+    border: px;
+}
+.about_company{
+    margin-top: 20px;
+    border: px solid black;
+    width: 99.5%;
+    height: 120vh;
+}
+.content_about_company{
+    border: px solid black;
+    width: 45%;
+    height: 20vh;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 70px;
+}
+.content_about_company_paragraph2{
+    font-size: 18px;
+}
+.icons_item{
+    border: px solid black;
+    height: 38vh;
+    margin-left: 20px;
+    width: 30%;
+    display: inline-block;
+    
+}
+.desktop{
+    justify-content: center;
+    margin-left: 150px;
+}
+.desktop_paragraph{
+    text-align: center;
+}
+.heart{
+    border: px solid black;
+    height: 38vh;
+    margin-left: 20px;
+    width: 30%;
+    display: inline-block;
+    padding-top: 150px;
+}
+.heart_icon{
+    border: px solid black;
+    width: 100px;
+    margin-left: 150px;
+    justify-content: center;
+    margin-left: 150px;
+}
+.heart_icon_paragraph{
+    text-align: center;
+}
+
+.settings{
+    border: px solid black;
+    height: 38vh;
+    margin-left: 20px;
+    width: 30%;
+    display: inline-block;
+    padding-top: 150px;
+}
+.settings_icon{
+    border: px solid black;
+    width: 100px;
+    margin-left: 150px;
+    justify-content: center;
+    margin-left: 150px;
+}
+.settings_icon_paragraph{
+    text-align: center;
 }
