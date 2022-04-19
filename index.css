@@ -136,3 +136,41 @@ button:hover{
 .settings_icon_paragraph{
     text-align: center;
 }
+.work_page{
+    padding-top: 100px;
+    border: px solid black;
+    width: 60%;
+    height: 60vh;
+    background-color:  #F0F0F0;
+    display: inline-block;
+    margin-top: 10px;
+    
+    
+}
+.work_page_paragraph{
+    border: px solid black;
+    width: 40%;
+    margin-left: 50px;
+    font-size: 40px;
+}
+.work_page_paragraph2{
+    border: px solid black;
+    width: 65%;
+    margin-left: 50px;
+    
+}
+.mobile_screen_section{
+    border: px solid black;
+    width: 30%;
+    height: 50vh;
+    display: inline-block;
+    background-color: grey;
+    left: 0;
+}
+.image_phone{
+    height: 100vh;
+    width: 100%;
+    border: px solid black;
+    height: 350px;
+    padding-top: 60px;
+}
