@@ -1,0 +1,22 @@
+body{
+    
+}
+li{
+    display: inline-block;
+    float: right;
+    justify-content: space-around;
+    margin: 10PX;
+    margin-right: 20px;
+    cursor: pointer;
+}
+ul{
+    margin-right: 80px;
+    border: px solid black;
+    margin: 0 auto;
+    padding: 15px;
+    
+}
+.logo{
+    width: 25px;
+    margin-bottom: 0px;
+}
