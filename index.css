@@ -252,3 +252,24 @@ button:hover{
 .sub_number{
     font-size: 34px;
 }
+.images{
+    margin-top: 90px;
+    border: px solid black;
+    
+}
+.camera{
+    margin-left: 30px;
+    cursor: pointer;
+}
+.drone{
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.typewriter{
+    margin-right: 10px;
+    cursor: pointer;
+}
+.sound{
+    cursor: pointer;
+}
