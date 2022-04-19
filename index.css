@@ -279,7 +279,7 @@ button:hover{
     height: 150vh;
     margin-top: 60px;
     margin-left: 90px;
-    color: red;
+    color: #343434;
     background-color: #616161;
 }
 .our_pricing{
@@ -424,8 +424,41 @@ input{
     padding: 10px;
     background-color: #000;
     color: white;
+    cursor: pointer;
+    width: 300px;
 }
 .map{
     filter: grayscale(5);
     width: 100%;
+    margin-top: 30px; 
+    height: 100vh;
+}
+.footer{
+    margin-top: 100px;
+    border: 1px solid black;
+    width: 100%;
+    height: 50vh;
+    background-color: #000;
+}
+.foot{
+    border: px solid #fff;
+    padding: 20px;
+    width: 10%;
+    margin: 0 auto;
+    justify-content: center;
+    margin-left: 45%;
+    margin-top: 60px;
+}
+.make_a_border{
+    border: px solid #fff;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 150px;
+
+}
+.last{
+    border: px solid #fff;
+    color: #fff;
+    text-align: center;
 }
